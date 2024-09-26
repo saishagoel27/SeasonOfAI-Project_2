@@ -1,4 +1,4 @@
-Project: Image Classification with Convolutional Neural Network (CNN)
+Project 2 - Image Classification with Convolutional Neural Network (CNN)
 
 Description:
 This repository contains the code and resources related to a machine learning project focused on image classification using Convolutional Neural Networks (CNNs). The project aims to classify images from the CIFAR10 dataset into 10 different categories.
