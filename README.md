@@ -6,7 +6,11 @@ This repository contains the code and resources related to a machine learning pr
 Key Features:
 
 Data Exploration: Analysis of the CIFAR10 dataset, including shape, distribution, and visualization of sample images.
+
 Data Preprocessing: Normalization of pixel values to improve model performance.
+
 Model Building: Construction of a simple Artificial Neural Network (ANN) and a more complex Convolutional Neural Network (CNN) architecture.
+
 Model Training: Training both models on the CIFAR10 dataset.
+
 Model Evaluation: Evaluation of model performance using metrics like accuracy and classification report.
